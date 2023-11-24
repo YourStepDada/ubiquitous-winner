@@ -1,0 +1,27 @@
+h1
+{
+    color: red;
+}
+
+.body {
+    background-color: white;
+}
+
+.heading_div {
+    float: none;
+    color: black;
+    box-shadow: grey 5px 5px 5px;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.img-responsive {
+    height: 250px;
+    width: 320px;
+}
+
+div {
+    background-color: aquamarine;
+    border-radius: 5px;
+}
